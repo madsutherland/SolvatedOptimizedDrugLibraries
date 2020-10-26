@@ -6,7 +6,7 @@ DB_xxx.sdf = the libraries I started with;
 initial_geos = molecular structure files for conformers generated in MMFF using OpenBabel's GetConformers functionality;
 MOPAC_infiles = input files to energy-optimize atomic coordinates, starting with those in initial_geos, in MOPAC using PM7 and the COSMO solvent model;
 MOPAC_outfiles = .out, .arc and .cos files from those MOPAC runs;
-optimized_geos = *final, optimized* molecular structures for the conformers, extracted from the MOPAC outfiles, in .xyz format and after conversion to .sdf using Mathematica
+optimized_geos = *final, optimized* molecular structures for the conformers, extracted from the MOPAC outfiles, in .xyz format and after conversion to .sdf using Mathematica or Open Babel.
 
 
 
