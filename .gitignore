@@ -596,3 +596,6 @@ nutraceutical/MOPAC_infiles/compound9-min-energy-conf
 *.arc
 *.cos
 *.out
+*.sdf
+*.txt
+*.xyz
