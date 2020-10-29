@@ -593,3 +593,6 @@ nutraceutical/MOPAC_infiles/compound7-conf-99
 nutraceutical/MOPAC_infiles/compound7-min-energy-conf
 nutraceutical/MOPAC_infiles/compound8-min-energy-conf
 nutraceutical/MOPAC_infiles/compound9-min-energy-conf
+*.arc
+*.cos
+*.out
